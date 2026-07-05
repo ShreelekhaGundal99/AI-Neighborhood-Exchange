@@ -254,44 +254,6 @@ Features
 
 ---
 
-# 📷 Application Screenshots
-
-## Home Page
-
-> *(Add screenshot here)*
-
----
-
-## Browse Items
-
-> *(Add screenshot here)*
-
----
-
-## Create Item
-
-> *(Add screenshot here)*
-
----
-
-## AI Generated Description
-
-> *(Add screenshot here)*
-
----
-
-## Image Upload
-
-> *(Add screenshot here)*
-
----
-
-## Exchange Requests
-
-> *(Add screenshot here)*
-
----
-
 # 🔮 Future Enhancements
 
 - Real-time Chat
